@@ -62,8 +62,6 @@ type (
 		session *mgo.Session
 	}
 
-	jsondata map[string]string
-
 )
 
 func ModelManager() *DataStore {
