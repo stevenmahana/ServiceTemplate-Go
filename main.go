@@ -1,4 +1,4 @@
-package ServiceTemplate_Go
+package main
 
 import (
 	"github.com/stevenmahana/OrganizationServiceTemplate/src/controllers"
